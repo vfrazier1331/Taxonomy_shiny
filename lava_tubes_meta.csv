@@ -1,0 +1,4 @@
+sample.id,sample.num,new.name,substrate,environment
+A,1,lava_tube_mat1,basalt,cave
+B,2,lava_tube_mat2,basalt,cave
+C,3,lava_tube_mat3,basalt,cave
